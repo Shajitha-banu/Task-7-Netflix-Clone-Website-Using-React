@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-7-Netflix-Clone-Website-Using-React/static/css/main.48e3b385.css",
+    "main.js": "/Task-7-Netflix-Clone-Website-Using-React/static/js/main.60270e34.js",
+    "static/js/453.f0cb673c.chunk.js": "/Task-7-Netflix-Clone-Website-Using-React/static/js/453.f0cb673c.chunk.js",
+    "index.html": "/Task-7-Netflix-Clone-Website-Using-React/index.html",
+    "main.48e3b385.css.map": "/Task-7-Netflix-Clone-Website-Using-React/static/css/main.48e3b385.css.map",
+    "main.60270e34.js.map": "/Task-7-Netflix-Clone-Website-Using-React/static/js/main.60270e34.js.map",
+    "453.f0cb673c.chunk.js.map": "/Task-7-Netflix-Clone-Website-Using-React/static/js/453.f0cb673c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e3b385.css",
+    "static/js/main.60270e34.js"
+  ]
+}
